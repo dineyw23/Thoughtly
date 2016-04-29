@@ -1,0 +1,14 @@
+safe:        false
+port:        4000
+
+source:      .
+destination: ./_site
+
+future:      true
+lsi:         false
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+title: Travel
+baseurl: ""
+url: "http://dineyw23.github.io/Thoughtly"
+
+exclude:     [writing, drafts, _site, scripts, zim]
